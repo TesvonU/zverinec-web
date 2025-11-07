@@ -16,6 +16,7 @@ Filip Rada<br/>
 ## Aktivní členové
 
 Hugo Adamove<br/>
+Pavla Bártová<br/>
 Vojta Brdečko<br/>
 Oliver Bukor<br/>
 Emanuel Cisár<br/>
@@ -42,7 +43,6 @@ Jindřich Matuška<br/>
 Ondřej Nečas<br/>
 Jakub Ohnút<br/>
 Daniel Padrta<br/>
-Zuzka Palkovičová<br/>
 Eliška Pirnosová<br/>
 Karel Procházka<br/>
 Linda Ráheľová<br/>
@@ -117,6 +117,7 @@ Lukáš Němec<br/>
 Jirka Novotný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
 Radka Ošťádalová<img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za věrnou a důslednou organizaci InterLoSa" /><br/>
 Jiří Papoušek<br/>
+Zuzka Palkovičová<br/>
 Samuel Pastva<br/>
 Jakub Peschel<br/>
 Jan Pindur<br/>
